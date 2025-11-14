@@ -11,3 +11,4 @@ minio/minio
 rabbitmq:3.12.0-management
 mongo:7.0.0
 emqx:5.0.26
+emqx:5.7.0
