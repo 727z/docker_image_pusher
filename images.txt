@@ -13,4 +13,3 @@ mongo:7.0.0
 emqx:5.0.26
 emqx:5.7.0
 snowdreamtech/frps:latest
-fatedier/frpc:latest
